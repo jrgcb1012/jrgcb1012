@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Jorge Cebrián
+
+- 🎓 I'm currently studying Multimedia Engineering at the University of Alicante.  
+- 💻 I'm learning C++ and Java, and I'm highly motivated to keep improving my skills.  
+- 🚀 Passionate about technology, software development, and video game creation.  
+- 📚 Always curious and eager to learn something new every day.
+
 
 <!--
 **jrgcb1012/jrgcb1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
